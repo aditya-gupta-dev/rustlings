@@ -1,0 +1,7 @@
+[package]
+name = "lect-2"
+description = "Strings"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
