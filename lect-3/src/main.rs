@@ -1,3 +1,4 @@
 fn main() {
-    println!("Hello, world!");
+    let string = "Hi Sassy😀"; // utf-8 encoded
+    println!("{}",string.len());
 }
